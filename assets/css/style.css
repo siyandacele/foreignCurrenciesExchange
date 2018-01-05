@@ -1,0 +1,55 @@
+html,
+body {
+    
+}
+h2 {
+    display: block;
+    margin-left: -15px;
+}
+.page {;
+    padding: 2rem 0 9rem;
+    min-height: 100%;
+    height: auto;
+}
+
+/** It think I didnt get the memo**/
+.has-error{
+    border-color: #d85353;
+    background-color: #ffe7e7;
+}
+.helpr {
+    font-weight: 700;
+    margin: .3rem 0;
+    width: 100%;
+    color: brown;
+    padding: .2rem .3rem;
+    background: #f1dddd;
+    border-radius: .2rem;
+    font-size: .75rem;
+    visibility: hidden;
+}
+.money {
+    padding: 1.3rem 0;
+}
+table tr td {
+    font-size: .75rem;
+    font-weight: 700;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-top: 4rem;
+    text-align: center;
+    padding: 1.3rem 0;
+    background: #333;
+    color: aliceblue;
+}
+.the-form {
+    padding: 0 2rem;
+}
+.btn {
+    width: 100%;
+    cursor: pointer;
+}
